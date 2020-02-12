@@ -184,3 +184,10 @@ img {
     height: auto;
 	
 }
+
+.social-icon-wrap {
+	    display: inline-block;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
